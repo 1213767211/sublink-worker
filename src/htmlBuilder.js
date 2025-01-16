@@ -61,13 +61,12 @@ const generateDarkModeToggle = () => `
   </button>
 `;
 
-const generateGithubLink = () => `
- /* <a href="https://github.com/1213767211/sublink-worker" target="_blank" rel="noopener noreferrer" class="github-link">
+/*const generateGithubLink = () => `
+  <a href="https://github.com/1213767211/sublink-worker" target="_blank" rel="noopener noreferrer" class="github-link">
     <i class="fab fa-github"></i>
   </a>
-  */
 `;
-
+*/
 const generateCardHeader = () => `
   <div class="card-header text-center">
     <h1 class="display-4 mb-0">Sublink Worker</h1>
